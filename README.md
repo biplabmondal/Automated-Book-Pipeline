@@ -13,3 +13,6 @@ This project demonstrates a complete automated pipeline for scraping, rewriting,
 - RL-style intelligent search to retrieve most relevant chapter version
 
 
+## Demo Video
+
+https://drive.google.com/file/d/14EBXOplAs-x18JZ2RpivkOAxvvRyri2V/view?usp=sharing

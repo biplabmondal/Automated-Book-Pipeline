@@ -12,6 +12,10 @@ This project demonstrates a complete automated pipeline for scraping, rewriting,
 - ChromaDB vector database for versioned content storage
 - RL-style intelligent search to retrieve most relevant chapter version
 
+## Technologies Used
+
+- Programming Language: Python
+
 
 ## Demo Video
 
